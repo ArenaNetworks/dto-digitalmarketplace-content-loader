@@ -15,7 +15,7 @@ setup(
     install_requires=[
         'inflection',
         'PyYAML',
-        'Werkzeug<=0.12.1',
+        'Werkzeug<=0.14.1',
         'six'
     ]
 )
