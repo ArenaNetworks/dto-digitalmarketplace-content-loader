@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(
     name='dto-digitalmarketplace-content-loader',
     version='1.1.1',
-    url='https://github.com/AusDTO/dto-digitalmarketplace-content-loader',
+    url='https://github.com/arenanetworks/dto-digitalmarketplace-content-loader',
     license='MIT',
     author='GDS Developers',
     description='Digital Marketplace Content Loader',
